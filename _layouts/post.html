@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: "Microsoft YaHei", sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background-color: #ffffff;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3 {
+      color: #222;
+    }
+
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    hr {
+      margin: 2em 0;
+      border: none;
+      border-top: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <p><small>发布于 {{ page.date | date: "%Y年%m月%d日" }}</small></p>
+    <hr>
+    {{ content }}
+  </article>
+</body>
+</html>
