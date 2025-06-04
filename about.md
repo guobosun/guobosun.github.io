@@ -1,10 +1,12 @@
 ---
 layout: default
+title: "About"
+permalink: /about/
 ---
 
 # 👋 关于我
 
-你好，我是 **guobosun**，目前专注于 A/B 测试和数字营销的学习与研究。
+你好，我是 **guobosun**,
 
 这个博客将记录我的学习笔记、实战经验以及资料整理，欢迎访问与交流！
 
