@@ -1,1 +1,21 @@
 theme: null
+# site settings
+title: Phoenix Sun
+
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://guobosun.github.io" # the base hostname & protocol for your site
+github_username:  guobosun
+
+# build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+author:
+  name:         Guobo Sun
+  url:          https://guobosun.github.io
