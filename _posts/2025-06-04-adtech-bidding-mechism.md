@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 计算广告竞价机制
-date: 2020-12-10
+date: 2025-06-04
 categories: AdTech
 description: Bidding Mechanism
 ---
