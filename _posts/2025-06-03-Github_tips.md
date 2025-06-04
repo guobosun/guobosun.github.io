@@ -18,4 +18,5 @@ description: Learning
 10. _includes/ 目录 是用于存放可复用的页面组件，比如页眉，页脚，导航链接，社交媒体链接等。
 11. _layouts/ 目录 是用于定义页面的整体布局结构，包含default.html(主布局)以及post.html(文章布局) 等。
 12. _config.yml 用于配置站点的基本信息和行为，以及使用模板，可以禁用远程主体：theme:null 从而使用自定义的_layouts/*.html。也支持配套主题：theme: minima 等。
-    
+13. <img src="http://ww3.sinaimg.cn/large/006tNc79gy1g5vv6nqdi5j30cc07oaa8.jpg" width="60%" alt="Mean_squared_error_loss" referrerPolicy="no-referrer"/>:referrerPolicy="no-referrer"` 是 HTML `<img>` 标签的一个属性，用于控制浏览器在请求图片时是否发送来源页面（referrer）信息
+    <img src="/assets/lossfuction/Loss-fonction-01.jpg" width="60%" alt="Mean_squared_error_loss" /> 
