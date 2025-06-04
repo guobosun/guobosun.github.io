@@ -1,3 +1,10 @@
+---
+layout: post
+title: Github page Tips
+date: 2025-06-04
+categories: Github
+description: Learning
+---
 ### Tips
 1. guobosun.github.io（这是 GitHub Pages 的命名规范）
 2. GitHub 的网页界面中，不能直接新建空文件夹，但可以通过新建一个文件的方式来“创建文件夹
