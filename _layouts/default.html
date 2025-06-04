@@ -66,4 +66,15 @@
     <p>© {{ site.time | date: '%Y' }} {{ site.title }} · 由 GitHub Pages 驱动</p>
   </footer>
 </body>
+  <header>
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+  {% include header.html %}
+</header>
+
+<main>
+  {{ content }}
+</main>
+
+{% include footer.html %}
 </html>
