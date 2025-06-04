@@ -16,7 +16,7 @@ description: Learning
 8. archive.html 代码是一个典型的 Jekyll 分类归档页面模板，它的功能是将博客文章按**分类（Category）**分组并展示，并在每篇文章后显示其发布日期
 9. assets/ 是用于存放博客使用的静态资源，可以包含图片，CSS文件，JS文件等
 ---
-```
+```Markdown
 | 目录或文件类型    | 建议用途            |
 | ---------------- | --------------- |
 | `assets/images/` | 存储博客配图或插图       |
@@ -29,5 +29,8 @@ description: Learning
 11. _includes/ 目录 是用于存放可复用的页面组件，比如页眉，页脚，导航链接，社交媒体链接等。
 12. _layouts/ 目录 是用于定义页面的整体布局结构，包含default.html(主布局)以及post.html(文章布局) 等。
 13. _config.yml 用于配置站点的基本信息和行为，以及使用模板，可以禁用远程主体：theme:null 从而使用自定义的_layouts/*.html。也支持配套主题：theme: minima 等。
-14. <img src="http://ww3.sinaimg.cn/large/文件名称.jpg" width="60%" alt="Mean_squared_error_loss" referrerPolicy="no-referrer"/>:referrerPolicy="no-referrer"` 是 HTML `<img>` 标签的一个属性，用于控制浏览器在请求图片时是否发送来源页面（referrer）信息
-    <img src="/assets/lossfuction/Loss-fonction-01.jpg" width="60%" alt="Mean_squared_error_loss" /> 
+14.
+```markdown
+ <img src="http://ww3.sinaimg.cn/large/文件名称.jpg" width="60%" alt="Mean_squared_error_loss" referrerPolicy="no-referrer"/>:referrerPolicy="no-referrer"` 是 HTML `<img>` 标签的一个属性，用于控制浏览器在请求图片时是否发送来源页面（referrer）信息
+    <img src="/assets/lossfuction/Loss-fonction-01.jpg" width="60%" alt="Mean_squared_error_loss" />
+```
