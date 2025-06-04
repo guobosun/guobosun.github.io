@@ -1,23 +1,64 @@
 ---
 layout: default
+title: Home
 ---
 
 # 欢迎来到 guobosun 的博客 👋
 
+<div class="home">
+  <div class="post-list">
+    {% for post in site.posts limit:5%}
 
-## 📌 最新文章
+    <article class="post_card post">
+      <header class="post_header">
+        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
+        <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+      </header>
+      <div class="post_excerpt">
+        <p>
+          {% if post.description %}
+          {{ post.description}}
+          {% else %}
+          {{ post.excerpt }}
+          {% endif %}
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
+        </p>
+      </div>
+      <footer class="post_meta">
 
-<ul>
-  {% for post in site.posts limit:5 %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>（{{ post.date | date: "%Y-%m-%d" }}）</small>
-    </li>
-  {% endfor %}
-</ul>
 
----
+        <!-- {% if post.location %}
+        <span class="author-location">
+          <div data-icon="ei-location"></div>
+          <a href="https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
+        </span>
+        {% endif %} -->
 
-## 📚 页面导航
 
-- [关于我]({{ "/about.html" | relative_url }})
+        <!-- {% for category in post.categories %}
+        <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
+          <data data-icon="ei-archive"></data>
+          {{category}}</a>
+        {% endfor %} -->
+
+
+
+        <!-- {% if post.author %}
+        <span class="author_meta">
+          <img src="{{site.baseurl}}/assets/img/{{post.author}}.jpg"></img>
+          <span>David Lin</span>
+        </span>
+        {% endif %} -->
+
+
+        <!--p class="readmore">
+          <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
+        </p-->
+      </footer>
+      <hr/>
+    </article>
+    {% endfor %}
+
+    <div class="pagination older-post"><a href="./archive"><data data-icon="ei-arrow-right"></data> Archive  </a></div>
+  </div>
+</div>
