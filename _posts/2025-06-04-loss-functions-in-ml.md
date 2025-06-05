@@ -8,8 +8,8 @@ description: 机器学习常见的损失函数小结
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww2.sinaimg.cn/large/006tNc79gy1g5wdhu9g2jj311o0eqqcv.jpg" data-lightbox="loss_functions_in_ml_head_img">
-    <img src="http://ww2.sinaimg.cn/large/006tNc79gy1g5wdhu9g2jj311o0eqqcv.jpg" width="100%" alt="loss_functions_in_ml_head_img" referrerPolicy="no-referrer"/>
+  <a href="assets/favicon.png" data-lightbox="loss_functions_in_ml_head_img">
+    <img src="assets/favicon.png" width="100%" alt="loss_functions_in_ml_head_img"/>
   </a>
 </div>
 <!--END figure-->
@@ -64,8 +64,8 @@ description: 机器学习常见的损失函数小结
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww3.sinaimg.cn/large/006tNc79gy1g5vv6nqdi5j30cc07oaa8.jpg" data-lightbox="Mean_squared_error_loss">
-    <img src="http://ww3.sinaimg.cn/large/006tNc79gy1g5vv6nqdi5j30cc07oaa8.jpg" width="60%" alt="Mean_squared_error_loss" referrerPolicy="no-referrer"/>
+  <a href="assets/Machine Learning/loss-function_01.jpeg" data-lightbox="Mean_squared_error_loss">
+    <img src="assets/Machine Learning/loss-function_01.jpeg" width="60%" alt="Mean_squared_error_loss"/>
   </a>
 </div>
 <!--END figure-->
@@ -125,8 +125,8 @@ description: 机器学习常见的损失函数小结
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79gy1g5vv6yti61j30co07oglt.jpg" data-lightbox="mae_error_loss">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79gy1g5vv6yti61j30co07oglt.jpg" width="60%" alt="mae_error_loss" referrerPolicy="no-referrer"/>
+  <a href="assets/Machine Learning/loss-function_02.jpeg" data-lightbox="mae_error_loss">
+    <img src="assets/Machine Learning/loss-function_02.jpeg" width="60%" alt="mae_error_loss" />
   </a>
 </div>
 <!--END figure-->
@@ -161,8 +161,8 @@ MAE 和 MSE 作为损失函数的主要区别是：MSE 损失相比 MAE 通常�
 
   <!--START figure-->
   <div class="figure">
-    <a href="http://ww3.sinaimg.cn/large/006tNc79gy1g5vwewx84pj30na07njs5.jpg" data-lightbox="mae_vs_mse">
-      <img src="http://ww3.sinaimg.cn/large/006tNc79gy1g5vwewx84pj30na07njs5.jpg" width="100%" alt="mae_vs_mse" referrerPolicy="no-referrer"/>
+    <a href="assets/Machine Learning/loss-function_03.jpeg" data-lightbox="mae_vs_mse">
+      <img src="assets/Machine Learning/loss-function_03.jpeg" width="100%" alt="mae_vs_mse"/>
     </a>
   </div>
   <!--END figure-->
@@ -171,8 +171,8 @@ MAE 和 MSE 作为损失函数的主要区别是：MSE 损失相比 MAE 通常�
 
   <!--START figure-->
   <div class="figure">
-    <a href="http://ww1.sinaimg.cn/large/006tNc79ly1g5w0jwknp6j30rz0bqgnc.jpg" data-lightbox="gaussian_vs_laplace">
-      <img src="http://ww1.sinaimg.cn/large/006tNc79ly1g5w0jwknp6j30rz0bqgnc.jpg" width="100%" alt="gaussian_vs_laplace" referrerPolicy="no-referrer"/>
+    <a href="assets/Machine Learning/loss-function-05.jpeg" data-lightbox="gaussian_vs_laplace">
+      <img src="assets/Machine Learning/loss-function-05.jpeg" width="100%" alt="gaussian_vs_laplace"/>
     </a>
   </div>
   <!--END figure-->
@@ -195,8 +195,8 @@ MAE 和 MSE 作为损失函数的主要区别是：MSE 损失相比 MAE 通常�
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79ly1g5w1ma99hcj30ca07kmxe.jpg" data-lightbox="huber_loss">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79ly1g5w1ma99hcj30ca07kmxe.jpg" width="60%" alt="huber_loss" referrerPolicy="no-referrer"/>
+  <a href="assets/Machine Learning/loss-function_07.jpeg" data-lightbox="huber_loss">
+    <img src="assets/Machine Learning/loss-function_07.jpeg" width="60%" alt="huber_loss"/>
   </a>
 </div>
 <!--END figure-->
@@ -215,8 +215,8 @@ Huber Loss 结合了 MSE 和 MAE 损失，在误差接近 0 时使用 MSE，使�
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79ly1g5w27gguwmj30bs07c0sx.jpg" data-lightbox="quantile_regression_demo">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79ly1g5w27gguwmj30bs07c0sx.jpg" width="60%" alt="quantile_regression_demo" referrerPolicy="no-referrer"/>
+  <a href="assets/Machine Learning/loss-function_08.jpeg" data-lightbox="quantile_regression_demo">
+    <img src="assets/Machine Learning/loss-function_08.jpeg" width="60%" alt="quantile_regression_demo"/>
   </a>
 </div>
 <!--END figure-->
@@ -242,8 +242,8 @@ Huber Loss 结合了 MSE 和 MAE 损失，在误差接近 0 时使用 MSE，使�
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww2.sinaimg.cn/large/006tNc79ly1g5w3unb8lkj30cs07imxo.jpg" data-lightbox="quantile_losses">
-    <img src="http://ww2.sinaimg.cn/large/006tNc79ly1g5w3unb8lkj30cs07imxo.jpg" width="60%" alt="quantile_losses" referrerPolicy="no-referrer"/>
+  <a href="assets/Machine Learning/loss-function_09.jpeg" data-lightbox="quantile_losses">
+    <img src="assets/Machine Learning/loss-function_09.jpeg" width="60%" alt="quantile_losses"/>
   </a>
 </div>
 <!--END figure-->
@@ -296,8 +296,8 @@ Huber Loss 结合了 MSE 和 MAE 损失，在误差接近 0 时使用 MSE，使�
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww3.sinaimg.cn/large/006tNc79ly1g5w94ro0loj30cd07kq36.jpg" data-lightbox="binary_cross_entropy_loss">
-    <img src="http://ww3.sinaimg.cn/large/006tNc79ly1g5w94ro0loj30cd07kq36.jpg" width="60%" alt="binary_cross_entropy_loss" referrerPolicy="no-referrer"/>
+  <a href="assets/Machine Learning/loss-function_10.jpeg" data-lightbox="binary_cross_entropy_loss">
+    <img src="assets/Machine Learning/loss-function_10.jpeg" width="60%" alt="binary_cross_entropy_loss"/>
   </a>
 </div>
 <!--END figure-->
@@ -397,8 +397,8 @@ Huber Loss 结合了 MSE 和 MAE 损失，在误差接近 0 时使用 MSE，使�
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww1.sinaimg.cn/large/006tNc79gy1g5wbvj12kaj30by07m3ym.jpg" data-lightbox="hinge_loss">
-    <img src="http://ww1.sinaimg.cn/large/006tNc79gy1g5wbvj12kaj30by07m3ym.jpg" width="60%" alt="hinge_loss" referrerPolicy="no-referrer"/>
+  <a href="assets/Machine Learning/loss-function_11.jpeg" data-lightbox="hinge_loss">
+    <img src="assets/Machine Learning/loss-function_11.jpeg" width="60%" alt="hinge_loss"/>
   </a>
 </div>
 <!--END figure-->
