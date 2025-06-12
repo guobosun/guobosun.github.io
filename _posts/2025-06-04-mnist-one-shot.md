@@ -6,13 +6,6 @@ categories: DL
 description: You only have one shot.
 ---
 
-<!--START figure-->
-<div class="figure">
-  <a href="https://tva1.sinaimg.cn/large/006tNbRwly1g9g0ojqaifj316q0ighdt.jpg" data-lightbox="mnist-head-figure">
-    <img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9g0ojqaifj316q0ighdt.jpg" width="100%" alt="mnist-head-figure" referrerPolicy="no-referrer"/>
-  </a>
-</div>
-<!--END figure-->
 
 ### 目录
 
@@ -43,8 +36,8 @@ description: You only have one shot.
 
 <!--START figure-->
 <div class="figure">
-  <a href="https://tva1.sinaimg.cn/large/006y8mN6ly1g99gqz8qnfj30fy0bo752.jpg" data-lightbox="mnist-sample">
-    <img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g99gqz8qnfj30fy0bo752.jpg" width="60%" alt="mnist-sample" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/baseline-01.jfif" data-lightbox="mnist-sample">
+    <img src="/assets/Machine%20Learning/baseline-01.jfif" width="60%" alt="mnist-sample" referrerPolicy="no-referrer"/>
   </a>
 </div>
 <!--END figure-->
@@ -109,8 +102,8 @@ p.shear(probability=0.5, max_shear_left=3, max_shear_right=3)
 
 <!--START figure-->
 <div class="figure">
-  <a href="https://tva1.sinaimg.cn/large/006y8mN6ly1g99izcusuvj30hs0dct9v.jpg" data-lightbox="mnist-data-augment">
-    <img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g99izcusuvj30hs0dct9v.jpg" width="70%" alt="mnist-data-augment" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/baseline-02.jfif" data-lightbox="mnist-data-augment">
+    <img src="/assets/Machine%20Learning/baseline-02.jfif" width="70%" alt="mnist-data-augment" referrerPolicy="no-referrer"/>
   </a>
 </div>
 <!--END figure-->
@@ -138,8 +131,8 @@ GAN（[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)） 是�
 
 <!--START figure-->
 <div class="figure">
-  <a href="https://tva1.sinaimg.cn/large/006tNbRwly1g9f1zrtiqjj30c10e80tb.jpg" data-lightbox="mnist-data-augment">
-    <img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9f1zrtiqjj30c10e80tb.jpg" width="60%" alt="mnist-data-augment" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/baseline-03.jfif" data-lightbox="mnist-data-augment">
+    <img src="/assets/Machine%20Learning/baseline-03.jfif" width="60%" alt="mnist-data-augment" referrerPolicy="no-referrer"/>
   </a>
 </div>
 <!--END figure-->
@@ -148,8 +141,8 @@ GAN（[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)） 是�
 
 <!--START figure-->
 <div class="figure">
-  <a href="https://tva1.sinaimg.cn/large/006y8mN6ly1g99k9ikwdmj30hs0dcdgo.jpg" data-lightbox="mnist-data-augment">
-    <img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g99k9ikwdmj30hs0dcdgo.jpg" width="70%" alt="mnist-data-augment" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/baseline-04.jfif" data-lightbox="mnist-data-augment">
+    <img src="/assets/Machine%20Learning/baseline-04.jfif" width="70%" alt="mnist-data-augment" referrerPolicy="no-referrer"/>
   </a>
 </div>
 <!--END figure-->
