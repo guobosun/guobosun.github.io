@@ -8,6 +8,7 @@ description: CPM/CPC/CPA/oCPA
 
 <br>
 文章转载自 [borgwang](https://github.com/borgwang/borgwang.github.io) ,仅用于练习创建 Github page & 学习使用！
+
 本文整理了计算广告中常见的出价模式
 
 <br>
