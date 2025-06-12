@@ -6,13 +6,6 @@ categories: ML
 description: 机器学习常见的损失函数小结
 ---
 
-<!--START figure-->
-<div class="figure">
-  <a href="/assets/favicon.png" data-lightbox="loss_functions_in_ml_head_img">
-    <img src="/assets/favicon.png" width="10%" alt="loss_functions_in_ml_head_img"/>
-  </a>
-</div>
-<!--END figure-->
 
 <br>
 
