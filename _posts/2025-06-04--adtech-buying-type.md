@@ -68,15 +68,15 @@ description: CPM/CPC/CPA/oCPA
 
 CPM 模式的四点在广告转化链路上的位置为
 
-<img src="/assets/assets-adtech-buying-type/image-20200928175659480.png" alt="image-20200928175659480" style="zoom:80%;" />
+<img src="/assets/Machine%20Learning/adtech-buying-type_01.png" alt="image-20200928175659480" style="zoom:80%;" />
 
 CPC 模式的四点在广告转化链路上的位置为
 
-<img src="/assets/assets-adtech-buying-type/image-20200928175827335.png" alt="image-20200928175827335" style="zoom:80%;" />
+<img src="/assets/Machine%20Learning/adtech-buying-type-02.png" alt="image-20200928175827335" style="zoom:80%;" />
 
 CPA 模式的四点在广告转化链路上的位置为
 
-<img src="/assets/assets-adtech-buying-type/image-20200928180411745.png" alt="image-20200928180411745" style="zoom:80%;" />
+<img src="/assets/Machine%20Learning/adtech-buying-type-03.png" alt="image-20200928180411745" style="zoom:80%;" />
 
 CPM 广告投放时，广告主可能会隐式地估计一个从曝光到最终考核点的概率 `p(M->P)`，根据这个概率以及考核成本计算出 CPM 出价（根据历史投放消费情况调整 CPM 出价，相同意思）。CPC 与 CPM 广告类似，只是广告主需要估计的概率从 CPM 模式的 `p(M->P)` 变成了 `p(C->P)`，CPA 也是类似，需要估计 `p(A->P)`。
 
@@ -160,7 +160,7 @@ CPM 到 CPC 的变化是计费点和出价点从 M 移动到 C，这个点之前
 
 CPA、oCPM 和 oCPC 的对比图如下
 
-<img src="/assets/assets-adtech-buying-type/image-20200929163822243.png" alt="image-20200929163822243" style="zoom: 50%;" />
+<img src="/assets/Machine%20Learning/adtech-buying-type-04.png" alt="image-20200929163822243" style="zoom: 50%;" />
 
 #### p(计费点->出价点)
 
@@ -199,23 +199,19 @@ oCPX 模式使计费点和出价点分离，对于 oCPM 模式 `p(计费点->出
 
 #### 大媒体平台
 
-上面分析中的媒体平台实际上指的是大媒体平台，即本身既是媒体（流量持有者），又做流量聚合，并且还自建广告投放平台（直接对接广告主）。典型大媒体平台国内像腾讯、百度、头条等。示意图如下
+上面分析中的媒体平台实际上指的是大媒体平台，即本身既是媒体（流量持有者），又做流量聚合，并且还自建广告投放平台（直接对接广告主）。典型大媒体平台国内像腾讯、百度、头条等。
 
-![image-20200930154243944](/assets/assets-adtech-buying-type/image-20200930154243944.png)
 
 #### 广告联盟
 
-但并不是所有媒体都有能力或者规模大到足够自建广告投放平台，因此还有一种广告联盟的形态，本质上广告联盟做了上图大媒体平台中的流量聚合和投放平台两件事。一边对接零散媒体流量，一边对接广告主。典型的广告联盟有腾讯的优量汇、头条的穿山甲、百度联盟。广告联盟示意图如下
+但并不是所有媒体都有能力或者规模大到足够自建广告投放平台，因此还有一种广告联盟的形态，本质上广告联盟做了上图大媒体平台中的流量聚合和投放平台两件事。一边对接零散媒体流量，一边对接广告主。典型的广告联盟有腾讯的优量汇、头条的穿山甲、百度联盟。
 
-![image-20200930154454093](/assets/assets-adtech-buying-type/image-20200930154454093.png)
 
 在广告联盟的生态中，平台将广告收入与媒体进行分成，大部分时候两者的利益还是一致的。对于 oCPX 模式，`p(计费点->出价点) `预估偏高，出现超成本时是由平台进行赔付，而平台实际上很难将赔付归因到具体的媒体。因此媒体有动力去让平台预估的 `p(计费点->出价点)` 偏高，拿到更多分成而不用进行赔付。通常媒体在 oCPM 模式比 oCPC 模式更容易舞弊，因为 oCPM 模式下媒体可以通过虚假展现增加收入分成，oCPC 由于按照点击计费，舞弊的成本变高了。这也是为什么头条自有流量上只有 oCPM 模式，而穿山甲依然支持 oCPC 模式投放。
 
 #### RTB 生态
 
 RTB 生态相比广告联盟，流量聚合和投放平台分拆开来了，分别有 AdX 和 DSP 负责，AdX 只负责进行流量聚合，对接媒体，DSP 则负责对接广告主，对广告请求进行点击率、转化率预估。
-
-<img src="/assets/assets-adtech-buying-type/image-20200930163223279.png" alt="image-20200930163223279" style="zoom: 50%;" />
 
 - DSP 三种盈利模式
 
