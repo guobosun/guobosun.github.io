@@ -8,7 +8,7 @@ description: 机器学习常见的损失函数小结
 
 
 <br>
-
+文章转载自 [borgwang](https://github.com/borgwang/borgwang.github.io) ,仅用于练习创建 Github page & 学习使用！
 机器学习中的监督学习本质上是给定一系列训练样本 $$(x_i, y_i)$$，尝试学习 $$x\rightarrow y$$ 的映射关系，使得给定一个 $$x$$，即便这个 $$x$$ 不在训练样本中，也能够得到尽量接近真实 $$y$$ 的输出 $$\hat{y}$$。而损失函数（Loss Function）则是这个过程中关键的一个组成部分，用来**衡量模型的输出 $$\hat{y}$$ 与真实的 $$y$$ 之间的差距**，给模型的优化指明方向。
 
 本文将介绍机器学习、深度学习中分类与回归常用的几种损失函数，包括均方差损失 Mean Squared Loss、平均绝对误差损失 Mean Absolute Error Loss、Huber Loss、分位数损失 Quantile Loss、交叉熵损失函数 Cross Entropy Loss、Hinge 损失 Hinge Loss。主要介绍各种损失函数的基本形式、原理、特点等方面。
