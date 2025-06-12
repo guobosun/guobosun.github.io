@@ -261,7 +261,7 @@ to_image(output, grey=True, save_path="./plots/conv/lenna_conv.png")
 
 <!--START figure-->
 <div class="figure">
-  <a /assets/Machine%20Learning/convolution-10.jfif" data-lightbox="lenna_origin">
+  <a href="/assets/Machine%20Learning/convolution-10.jfif" data-lightbox="lenna_origin">
     <img src="/assets/Machine%20Learning/convolution-10.jfif" width="30%" alt="lenna_origin" />
   </a>
 </div>
