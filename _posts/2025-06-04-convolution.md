@@ -6,14 +6,6 @@ categories: DL
 description: Convolution Visualization
 ---
 
-<!--START figure-->
-<div class="figure">
-  <a href="http://ww1.sinaimg.cn/large/006tNc79gy1g5np0kkf60j311k0deaj3.jpg" data-lightbox="convolution_head_img">
-    <img src="http://ww1.sinaimg.cn/large/006tNc79gy1g5np0kkf60j311k0deaj3.jpg" width="100%" alt="convolution_head_img" referrerPolicy="no-referrer"/>
-  </a>
-</div>
-<!--END figure-->
-
 
 <br>
 
@@ -44,8 +36,8 @@ description: Convolution Visualization
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79ly1g5nkze7xmyg30a307k0u0.gif" data-lightbox="1d-Convolution">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79ly1g5nkze7xmyg30a307k0u0.gif" width="60%" alt="1d-Convolution" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/convolution-01.gif" data-lightbox="1d-Convolution">
+    <img src="/assets/Machine%20Learning/convolution-01.gif" width="60%" alt="1d-Convolution" />
   </a>
 </div>
 <!--END figure-->
@@ -78,8 +70,8 @@ description: Convolution Visualization
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww3.sinaimg.cn/large/006tNc79gy1g5nj4xfq53g30ar082183.gif" data-lightbox="2d-Convolution">
-    <img src="http://ww3.sinaimg.cn/large/006tNc79gy1g5nj4xfq53g30ar082183.gif" width="60%" alt="2d-Convolution" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/convolution-02.gif" data-lightbox="2d-Convolution">
+    <img src="/assets/Machine%20Learning/convolution-02.gif" width="60%" alt="2d-Convolution" />
   </a>
 </div>
 <!--END figure-->
@@ -94,8 +86,8 @@ description: Convolution Visualization
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww1.sinaimg.cn/large/006tNc79gy1g5pe6jq6c0j30uq0jcgmn.jpg" data-lightbox="convkernel_and_input">
-    <img src="http://ww1.sinaimg.cn/large/006tNc79gy1g5pe6jq6c0j30uq0jcgmn.jpg" width="50%" alt="convkernel_and_input" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/convolution-03.jfif" data-lightbox="convkernel_and_input">
+    <img src="/assets/Machine%20Learning/convolution-03.jfif" width="50%" alt="convkernel_and_input" referrerPolicy="no-referrer"/>
   </a>
 </div>
 <!--END figure-->
@@ -119,8 +111,8 @@ description: Convolution Visualization
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79ly1g5pem2lv7nj31hr0u041g.jpg" data-lightbox="conv_transform_1">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79ly1g5pem2lv7nj31hr0u041g.jpg" width="90%" alt="conv_transform_1" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/convolution-04.jfif" data-lightbox="conv_transform_1">
+    <img src="/assets/Machine%20Learning/convolution-04.jfif" width="90%" alt="conv_transform_1" />
   </a>
 </div>
 <!--END figure-->
@@ -129,8 +121,8 @@ description: Convolution Visualization
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww3.sinaimg.cn/large/006tNc79ly1g5pexbizl5j31gr0u0diz.jpg" data-lightbox="fc_weight_and_input">
-    <img src="http://ww3.sinaimg.cn/large/006tNc79ly1g5pexbizl5j31gr0u0diz.jpg" width="90%" alt="fc_weight_and_input" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/convolution-05.jfif" data-lightbox="fc_weight_and_input">
+    <img src="/assets/Machine%20Learning/convolution-05.jfif" width="90%" alt="fc_weight_and_input" />
   </a>
 </div>
 <!--END figure-->
@@ -152,8 +144,8 @@ description: Convolution Visualization
 
   <!--START figure-->
   <div class="figure">
-    <a href="http://ww3.sinaimg.cn/large/006tNc79gy1g5niz5k350j30e00a0mxm.jpg" data-lightbox="conv-full-mode">
-      <img src="http://ww3.sinaimg.cn/large/006tNc79gy1g5niz5k350j30e00a0mxm.jpg" width="60%" alt="conv-full-mode" referrerPolicy="no-referrer"/>
+    <a href="/assets/Machine%20Learning/convolution-06.jfif" data-lightbox="conv-full-mode">
+      <img src="/assets/Machine%20Learning/convolution-06.jfif" width="60%" alt="conv-full-mode" />
     </a>
   </div>
   <!--END figure-->
@@ -164,8 +156,8 @@ description: Convolution Visualization
 
   <!--START figure-->
   <div class="figure">
-    <a href="http://ww2.sinaimg.cn/large/006tNc79gy1g5nizakja0j30e00a0gly.jpg" data-lightbox="conv-valid-mode">
-      <img src="http://ww2.sinaimg.cn/large/006tNc79gy1g5nizakja0j30e00a0gly.jpg" width="60%" alt="conv-valid-mode" referrerPolicy="no-referrer"/>
+    <a href="/assets/Machine%20Learning/convolution-07.jfif" data-lightbox="conv-valid-mode">
+      <img src="/assets/Machine%20Learning/convolution-07.jfif" width="60%" alt="conv-valid-mode" />
     </a>
   </div>
   <!--END figure-->
@@ -176,8 +168,8 @@ description: Convolution Visualization
 
   <!--START figure-->
   <div class="figure">
-    <a href="http://ww1.sinaimg.cn/large/006tNc79gy1g5nizhocufj30e00a0aag.jpg" data-lightbox="conv-same-mode1">
-      <img src="http://ww1.sinaimg.cn/large/006tNc79gy1g5nizhocufj30e00a0aag.jpg" width="60%" alt="conv-same-mode1" referrerPolicy="no-referrer"/>
+    <a href="/assets/Machine%20Learning/convolution-08.jfif" data-lightbox="conv-same-mode1">
+      <img src="/assets/Machine%20Learning/convolution-08.jfif" width="60%" alt="conv-same-mode1" />
     </a>
   </div>
   <!--END figure-->
@@ -186,8 +178,8 @@ description: Convolution Visualization
 
   <!--START figure-->
   <div class="figure">
-    <a href="http://ww3.sinaimg.cn/large/006tNc79gy1g5niwvpc5gj30e00a074u.jpg" data-lightbox="conv-same-mode2">
-      <img src="http://ww3.sinaimg.cn/large/006tNc79gy1g5niwvpc5gj30e00a074u.jpg" width="60%" alt="conv-same-mode2" referrerPolicy="no-referrer"/>
+    <a href="/assets/Machine%20Learning/convolution-09.jfif" data-lightbox="conv-same-mode2">
+      <img src="/assets/Machine%20Learning/convolution-09.jfif" width="60%" alt="conv-same-mode2" />
     </a>
   </div>
   <!--END figure-->
@@ -269,16 +261,16 @@ to_image(output, grey=True, save_path="./plots/conv/lenna_conv.png")
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79gy1g5mtkgzfnyj3064064wgl.jpg" data-lightbox="lenna_origin">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79gy1g5mtkgzfnyj3064064wgl.jpg" width="30%" alt="lenna_origin" referrerPolicy="no-referrer"/>
+  <a /assets/Machine%20Learning/convolution-10.jfif" data-lightbox="lenna_origin">
+    <img src="/assets/Machine%20Learning/convolution-10.jfif" width="30%" alt="lenna_origin" />
   </a>
 </div>
 <!--END figure-->
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79gy1g5mtkxmjxyj3064064js1.jpg" data-lightbox="lenna_conv">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79gy1g5mtkxmjxyj3064064js1.jpg" width="30%" alt="lenna_conv" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/convolution-11.jfif" data-lightbox="lenna_conv">
+    <img src="/assets/Machine%20Learning/convolution-11.jfif" width="30%" alt="lenna_conv" />
   </a>
 </div>
 <!--END figure-->
@@ -291,16 +283,16 @@ to_image(output, grey=True, save_path="./plots/conv/lenna_conv.png")
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww1.sinaimg.cn/large/006tNc79gy1g5pe6jq6c0j30uq0jcgmn.jpg" data-lightbox="convkernel_and_input">
-    <img src="http://ww1.sinaimg.cn/large/006tNc79gy1g5pe6jq6c0j30uq0jcgmn.jpg" width="50%" alt="convkernel_and_input" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/convolution-12.jfif" data-lightbox="convkernel_and_input">
+    <img src="/assets/Machine%20Learning/convolution-12.jfif" width="50%" alt="convkernel_and_input" />
   </a>
 </div>
 <!--END figure-->
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww3.sinaimg.cn/large/006tNc79ly1g5pfs8h0spj316i0mi0uc.jpg" data-lightbox="conv_transform_2">
-    <img src="http://ww3.sinaimg.cn/large/006tNc79ly1g5pfs8h0spj316i0mi0uc.jpg" width="70%" alt="conv_transform_2" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/convolution-13.jfif" data-lightbox="conv_transform_2">
+    <img src="/assets/Machine%20Learning/convolution-13.jfif" width="70%" alt="conv_transform_2" />
   </a>
 </div>
 <!--END figure-->
@@ -344,8 +336,8 @@ to_image(output, grey=True, save_path="./plots/conv/lenna_conv.png")
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79ly1g5pfx6dw5mj3064064js1.jpg" data-lightbox="lenna_conv2">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79ly1g5pfx6dw5mj3064064js1.jpg" width="30%" alt="lenna_conv2" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/convolution-14.jfif" data-lightbox="lenna_conv2">
+    <img src="/assets/Machine%20Learning/convolution-14.jfif" width="30%" alt="lenna_conv2" />
   </a>
 </div>
 <!--END figure-->
