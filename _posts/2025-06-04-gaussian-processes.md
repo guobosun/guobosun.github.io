@@ -9,6 +9,7 @@ description: GPs are not so fancy.
 
 <br>
 文章转载自 [borgwang](https://github.com/borgwang/borgwang.github.io) ,仅用于练习创建 Github page & 学习使用！
+
 高斯过程 [Gaussian Processes](https://en.wikipedia.org/wiki/Gaussian_process) 是概率论和数理统计中随机过程的一种，是多元高斯分布的扩展，被应用于机器学习、信号处理等领域。本文对高斯过程进行公式推导、原理阐述、可视化以及代码实现，介绍了以高斯过程为基础的高斯过程回归 Gaussian Process Regression 基本原理、超参优化、高维输入等问题。
 
 <br>
