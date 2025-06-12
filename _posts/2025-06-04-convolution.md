@@ -8,7 +8,7 @@ description: Convolution Visualization
 
 
 <br>
-
+文章转载自 [borgwang](https://github.com/borgwang/borgwang.github.io) ,仅用于练习创建 Github page & 学习使用！
 本文主要介绍了卷积 [Convolution](https://en.wikipedia.org/wiki/Convolution) 的背景、基本原理、特点、与全连接的区别与联系、不同的卷积模式，进行了卷积可视化以及代码实现了一个简单的 2 维卷积操作，并针对卷积操作进行了计算优化。
 
 <br>
