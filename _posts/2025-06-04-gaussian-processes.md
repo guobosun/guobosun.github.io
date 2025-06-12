@@ -6,14 +6,6 @@ categories: ML
 description: GPs are not so fancy.
 ---
 
-<!--START figure-->
-<div class="figure">
-  <a href="http://ww2.sinaimg.cn/large/006tNc79ly1g5g0gsv8n6j30y80b2104.jpg" data-lightbox="gps_head_img">
-    <img src="http://ww2.sinaimg.cn/large/006tNc79ly1g5g0gsv8n6j30y80b2104.jpg" width="100%" alt="gps_head_img" referrerPolicy="no-referrer"/>
-  </a>
-</div>
-<!--END figure-->
-
 
 <br>
 
@@ -115,8 +107,8 @@ description: GPs are not so fancy.
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww2.sinaimg.cn/large/006tNc79ly1g5fnrcgixfj31020rwjvm.jpg" data-lightbox="1d_gaussian">
-    <img src="http://ww2.sinaimg.cn/large/006tNc79ly1g5fnrcgixfj31020rwjvm.jpg" width="50%" alt="1d_gaussian" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/gaussion-01.jfif" data-lightbox="1d_gaussian">
+    <img src="/assets/Machine%20Learning/gaussion-01.jfif" width="50%" alt="1d_gaussian" />
   </a>
 </div>
 <!--END figure-->
@@ -125,8 +117,8 @@ description: GPs are not so fancy.
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79ly1g5fnrztkqlj30si0lw41m.jpg" data-lightbox="2d_gaussian">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79ly1g5fnrztkqlj30si0lw41m.jpg" width="50%" alt="2d_gaussian" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/gaussion-02.jfif" data-lightbox="2d_gaussian">
+    <img src="/assets/Machine%20Learning/gaussion-02.jfif" width="50%" alt="2d_gaussian" />
   </a>
 </div>
 <!--END figure-->
@@ -136,8 +128,8 @@ description: GPs are not so fancy.
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww3.sinaimg.cn/large/006tNc79ly1g5fnsa371xj30ss0lcadg.jpg" data-lightbox="infinite_gaussian">
-    <img src="http://ww3.sinaimg.cn/large/006tNc79ly1g5fnsa371xj30ss0lcadg.jpg" width="50%" alt="infinite_gaussian" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/gaussion-03.jfif" data-lightbox="infinite_gaussian">
+    <img src="/assets/Machine%20Learning/gaussion-03.jfif" width="50%" alt="infinite_gaussian" />
   </a>
 </div>
 <!--END figure-->
@@ -202,8 +194,8 @@ print(gaussian_kernel_vectorization(x, x, l=500, sigma=10))
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww1.sinaimg.cn/large/006tNc79ly1g5ey8tww8oj30yr0jnwmq.jpg" data-lightbox="gps_visualization">
-    <img src="http://ww1.sinaimg.cn/large/006tNc79ly1g5ey8tww8oj30yr0jnwmq.jpg" width="100%" alt="gps_visualization" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/gaussion-04.jfif" data-lightbox="gps_visualization">
+    <img src="/assets/Machine%20Learning/gaussion-04.jfif" width="100%" alt="gps_visualization" />
   </a>
 </div>
 <!--END figure-->
@@ -311,8 +303,8 @@ plt.legend()
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww2.sinaimg.cn/large/006tNc79ly1g5f1y505m5j30b8077dg9.jpg" data-lightbox="1d_gpr">
-    <img src="http://ww2.sinaimg.cn/large/006tNc79ly1g5f1y505m5j30b8077dg9.jpg" width="50%" alt="1d_gpr" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/gaussion-05.jfif" data-lightbox="1d_gpr">
+    <img src="/assets/Machine%20Learning/gaussion-05.jfif" width="50%" alt="1d_gpr" />
   </a>
 </div>
 <!--END figure-->
@@ -327,8 +319,8 @@ plt.legend()
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww2.sinaimg.cn/large/006tNc79ly1g5f2gikjrej30yb08q40y.jpg" data-lightbox="1d_gpr_hyper_parameters">
-    <img src="http://ww2.sinaimg.cn/large/006tNc79ly1g5f2gikjrej30yb08q40y.jpg" width="100%" alt="1d_gpr_hyper_parameters" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/gaussion-06.jfif" data-lightbox="1d_gpr_hyper_parameters">
+    <img src="/assets/Machine%20Learning/gaussion-06.jfif" width="100%" alt="1d_gpr_hyper_parameters" />
   </a>
 </div>
 <!--END figure-->
@@ -381,8 +373,8 @@ class GPR:
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww2.sinaimg.cn/large/006tNc79ly1g5fgxxpx32j30b007pjrp.jpg" data-lightbox="1d_gpr_opt">
-    <img src="http://ww2.sinaimg.cn/large/006tNc79ly1g5fgxxpx32j30b007pjrp.jpg" width="50%" alt="1d_gpr_opt" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/gaussion-07.jfif" data-lightbox="1d_gpr_opt">
+    <img src="/assets/Machine%20Learning/gaussion-07.jfif" width="50%" alt="1d_gpr_opt" />
   </a>
 </div>
 <!--END figure-->
@@ -414,8 +406,8 @@ plt.legend()
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79ly1g5fh435oqhj30bh07jmxh.jpg" data-lightbox="sklearn_gpr_compare">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79ly1g5fh435oqhj30bh07jmxh.jpg" width="50%" alt="sklearn_gpr_compare" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/gaussion-08.jfif" data-lightbox="sklearn_gpr_compare">
+    <img src="/assets/Machine%20Learning/gaussion-08.jfif" width="50%" alt="sklearn_gpr_compare" />
   </a>
 </div>
 <!--END figure-->
@@ -459,8 +451,8 @@ ax.set_title("l=%.2f sigma_f=%.2f" % (gpr.params["l"], gpr.params["sigma_f"]))
 
 <!--START figure-->
 <div class="figure">
-  <a href="http://ww4.sinaimg.cn/large/006tNc79ly1g5fm65aifoj30x40e4wpw.jpg" data-lightbox="2d_gpr">
-    <img src="http://ww4.sinaimg.cn/large/006tNc79ly1g5fm65aifoj30x40e4wpw.jpg" width="100%" alt="2d_gpr" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/gaussion-09.jfif" data-lightbox="2d_gpr">
+    <img src="/assets/Machine%20Learning/gaussion-09.jfif" width="100%" alt="2d_gpr" />
   </a>
 </div>
 <!--END figure-->
