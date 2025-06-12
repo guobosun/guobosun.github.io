@@ -8,7 +8,7 @@ categories: ML
 <br>
 
 ## Abstract
-
+文章转载自 [borgwang](https://github.com/borgwang/borgwang.github.io) ,仅用于练习创建 Github page & 学习使用！
 总结一下机器学习中常用的距离度量、相似度度量，以及两者之间的联系。
 
 <br>
