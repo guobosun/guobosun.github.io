@@ -6,13 +6,6 @@ categories: AdTech
 description: Overview of Programmatic Advertising
 ---
 
-<!--START figure-->
-<div class="figure">
-  <a href="https://tva1.sinaimg.cn/large/007S8ZIlly1gdydsmm5evj30ba0dvn2u.jpg" data-lightbox="book_programmatic_advertising">
-    <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gdydsmm5evj30ba0dvn2u.jpg" width="30%" alt="book_programmatic_advertising" referrerPolicy="no-referrer"/>
-  </a>
-</div>
-<!--END figure-->
 
 <br>
 
@@ -151,8 +144,8 @@ description: Overview of Programmatic Advertising
 
 <!--START figure-->
 <div class="figure">
-  <a href="https://tva1.sinaimg.cn/large/007S8ZIlly1gdxx429xomj30gy0lswkg.jpg" data-lightbox="transaction_modes">
-    <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gdxx429xomj30gy0lswkg.jpg" width="60%" alt="transaction_modes" referrerPolicy="no-referrer"/>
+  <a href="/assets/Machine%20Learning/notes-programmatic-01.jfif" data-lightbox="transaction_modes">
+    <img src="/assets/Machine%20Learning/notes-programmatic-01.jfif" width="60%" alt="transaction_modes" referrerPolicy="no-referrer"/>
   </a>
 </div>
 <!--END figure-->
@@ -236,8 +229,8 @@ description: Overview of Programmatic Advertising
 
 	<!--START figure-->
 	<div class="figure">
-	  <a href="https://tva1.sinaimg.cn/large/007S8ZIlly1gdy1q78qg8j30mo0llwm0.jpg" data-lightbox="rtb_procedure">
-		<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gdy1q78qg8j30mo0llwm0.jpg" width="70%" alt="rtb_procedure" referrerPolicy="no-referrer"/>
+	  <a href="/assets/Machine%20Learning/notes-programmatic-02.jfif" data-lightbox="rtb_procedure">
+		<img src="/assets/Machine%20Learning/notes-programmatic-02.jfif" width="70%" alt="rtb_procedure" referrerPolicy="no-referrer"/>
 	  </a>
 	</div>
 	<!--END figure-->
