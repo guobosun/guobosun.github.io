@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 计算广告出价模式
-date: 2020-12-09
+date: 2025-06-12
 categories: AdTech
 description: CPM/CPC/CPA/oCPA
 ---
